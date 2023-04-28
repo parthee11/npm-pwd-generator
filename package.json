@@ -1,0 +1,15 @@
+{
+  "name": "pwd-generator",
+  "version": "1.0.0",
+  "description": "A js library to generate a random password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "parthiban sundaram",
+  "license": "ISC"
+}
